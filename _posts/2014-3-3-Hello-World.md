@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Created my first website on Github pages
 ---
+# Engineer turned Lawyer turned Entrepreneur?
+As a lawyer, it can be hard to understand the nuances of technology. Although I reckon my engineering background did come to my rescue. 
+## Have I come full circle? 
+I sometimes wonder whether I've come full circle.
+Alt-What is next? 
+---
+Somewhere down the line I have been *lost*, _found_ and have **gone** through **extreme _lengths_** to find myself. 
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
